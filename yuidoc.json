@@ -1,6 +1,6 @@
 {
-  "name": "api-documentation",
-  "description": "LBLOD Documentation pages",
+  "name": "editor-documentation",
+  "description": "LBLOD editor Documentation pages",
   "version": "0.0.0",
   "options": {
     "paths": [

@@ -1,8 +1,8 @@
 {
-  "name": "api-documentation",
+  "name": "editor-documentation",
   "version": "0.0.0",
   "private": true,
-  "description": "LBLOD API documentation pages",
+  "description": "LBLOD Editor documentation pages",
   "author": "redpencil.io",
   "directories": {
     "doc": "doc",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lblod/api-documentation.git"
+    "url": "git+https://github.com/lblod/editor-documentation.git"
   },
   "scripts": {
     "build": "ember build",

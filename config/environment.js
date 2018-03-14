@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'api-documentation',
+    modulePrefix: 'editor-documentation',
     environment,
     rootURL: '/',
     locationType: 'auto',

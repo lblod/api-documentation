@@ -1,6 +1,6 @@
-# API documentation
+# Editor documentation
 
-Documentation of the LBLOD components. The documentation must be written following the [YUIDoc syntax](http://yui.github.io/yuidoc/syntax/index.html) and will be generated using [ember-cli-yuidoc](https://github.com/cibernox/ember-cli-yuidoc). 
+Documentation of the LBLOD editor components. The documentation must be written following the [YUIDoc syntax](http://yui.github.io/yuidoc/syntax/index.html) and will be generated using [ember-cli-yuidoc](https://github.com/cibernox/ember-cli-yuidoc). 
 
 ## Installation
 
