@@ -5,16 +5,11 @@
   "options": {
     "paths": [
       "app",
+      "node_modules/@lblod/marawa",
       "node_modules/@lblod/ember-rdfa-editor/addon",
-      "node_modules/@lblod/ember-rdfa-editor-citaten-plugin/addon",
-      "node_modules/@lblod/ember-rdfa-editor-console-logger-plugin/addon",
-      "node_modules/@lblod/ember-rdfa-editor-date-plugin/addon",
-      "node_modules/@lblod/ember-rdfa-editor-standard-template-plugin/addon",
-      "node_modules/ember-rdfa-editor-mandataris-plugin/addon",
       "node_modules/@lblod/ember-rdfa-editor-plugin-system-dispatcher/addon",
       "node_modules/@lblod/ember-rdfa-editor-plugin-system-dispatcher/app",
-      "node_modules/@lblod/ember-contenteditable-editor/addon",
-      "node_modules/@lblod/ember-vo-webuniversum/addon"
+      "node_modules/@lblod/ember-contenteditable-editor/addon"
     ],
     "exclude": "vendor",
     "outdir": "docs",
