@@ -5,7 +5,7 @@ Documentation of the LBLOD editor components. The documentation must be written 
 ## Installation
 
 ```bash
-edi npm install
+npm install
 ```
 
 ## Adding a new component to the document generator
@@ -16,16 +16,10 @@ edi npm install
 The documentation of the component will now be included when generating the docs using
 
 ```bash
-edi ember ember-cli-yuidoc
+ember ember-cli-yuidoc
 ```
 
 ## Running
 
-* `eds`
+* `ember s`
 * Visit the docs at [http://localhost:4200](http://localhost:4200).
-
-
-## Building & deploying on dock.semte.ch
-
-* `edi ember deploy production --activate`
-* Visit https://docs.lblod.info/
